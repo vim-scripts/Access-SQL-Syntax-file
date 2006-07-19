@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1611
+
+Including:
+ asql.vim - syntax definition file
+ filetype.vim - with automatical access sql recognition
+ synmenu.vim - modified menu file
+
+for lower versions than 7:
+WARNING: I tried to replace filetypes.vim with that from this package, but in version 6.4
+It won't run and it completely disable all filetype autodetections... So if you have lower version
+than 7 please excuse me, you must extend your autodetection In filetypes yourself,
+If someone have done it, please send it to me, i will include, if not, I will do that as soon as possible
